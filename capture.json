@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "pid": 7384,
+  "module": {
+    "base": 1483276288,
+    "size": 23736320,
+    "path": "D:\\crackme\\Новая папка\\Godzilla.dll"
+  },
+  "original_header_imagebase": 1483276288,
+  "image_path": "D:\\crackme\\Новая папка\\dll_observations\\pid7384_20261002_205406\\Godzilla.loaded.image.bin",
+  "analysis_path": "D:\\crackme\\Новая папка\\dll_observations\\pid7384_20261002_205406\\Godzilla.loaded.for_ida.dll",
+  "missing_page_offsets": [],
+  "entrypoint": 1501788910,
+  "notes": [
+    "Nonatomic read of one mapped module; not a process dump.",
+    "Unreadable pages are zero-filled and listed explicitly.",
+    "Analysis PE uses memory layout and loaded image base; not a runnable replacement."
+  ]
+}
